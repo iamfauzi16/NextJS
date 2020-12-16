@@ -1,11 +1,11 @@
 import Layout from '../components/Layout'
 
-export default function Home() {
+export default function About() {
 
   return (
-    <Layout title={process.env.appName}>
+    <Layout title= "About">
       <div className="container">
-        Welcome to the NextJS tuttorial
+        About
       </div>
     </Layout>
 
