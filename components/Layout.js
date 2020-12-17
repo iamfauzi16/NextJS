@@ -10,7 +10,7 @@ export default function Layout(props) {
                 <title>{props.title}</title>
                 <link rel="icon" href="https://parsinta.com/images/logo/parsinta-logo-mark.svg" />
             </Head>
-            
+
             <Navbar/>
 
             <div className="mt-8">
